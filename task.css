@@ -1,0 +1,23 @@
+header{
+    background-color: hsl(0, 51%, 42%);
+    text-align: center;
+    padding: 25px;
+}
+body{
+    margin: 0;
+}
+h3{
+    text-shadow: 3px 3px 5px hsl(19, 88%, 47%), -3px -3px 5px hsl(198, 87%, 51%);
+    text-align: center;
+}
+h4{
+       text-align: center;
+}
+#img{
+    float: left;
+    margin-right: 20px;
+}
+#box{
+    border: 5px solid;
+    display: flow-root;
+}
